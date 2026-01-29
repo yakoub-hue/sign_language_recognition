@@ -1,0 +1,6 @@
+numpy
+requests
+opencv-python
+tqdm
+mediapipe
+torch
